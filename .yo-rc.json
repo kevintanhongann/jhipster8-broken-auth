@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 0,
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "brokenAuthDemo",
+    "buildTool": "gradle",
+    "clientFramework": "vue",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "devServerPort": 9060,
+    "entities": [],
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "NWE0YjliMmNiMWExYWRlNmE3YTFhN2RmZGZmMTZlMjVmMTJiMTJmMTM3MGM2ODlkODlkNjYwMDIyZDdhYzJkNzNlMjI5ZmExNWUyYzM5YmY2YWYwMDRmYTJmY2Q5MWNiNTYxYjI4ZjM4MjdmOTE4ZDFiYzBmZmRjNmY2NGNjYWU=",
+    "languages": ["en"],
+    "nativeLanguage": "en",
+    "prodDatabaseType": "postgresql",
+    "testFrameworks": ["gatling", "cypress"]
+  }
+}

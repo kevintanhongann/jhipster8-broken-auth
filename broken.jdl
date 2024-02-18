@@ -1,0 +1,13 @@
+application {
+  config {
+    baseName brokenAuthDemo
+    applicationType monolith
+    authenticationType jwt
+    databaseType sql
+    devDatabaseType h2Disk
+    prodDatabaseType postgresql
+    buildTool gradle
+    clientFramework vue
+    testFrameworks [gatling,cypress]
+  }
+}
